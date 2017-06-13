@@ -112,4 +112,22 @@ Got a feature request or suggestion, download Status and shake your phone, faili
 
 ## License
 
-Licensed under the [Mozilla Public License v2.0](licenses/mpl2.md)
+Licensed under the [Mozilla Public License v2.0](licenses/mpl2.md)Status
+
+The Status team responds to community feedback and makes regular adjustments to the ICO itself that is going to open in 6.17. The imToken and the Status team reached their intention to cooperate in May and discussed the existing problems with the existing ICO model. We are very pleased to see, Status as an excellent representative of the ether square community, live up to the mission to make a positive change. For ICOs that are interested in 6.17, you need to know the following.
+
+SGT
+Status Genisis Token is a community-issued Medal of Honor for Status, motivating users to participate in Status testing and promotion. The official will be reserved for official ICO token SNT 10% of the amount presented to the SGT holders, then there will be a corresponding conversion ratio and way to receive the announcement.
+
+More importantly, SGT holders will have the power to give priority to ICO. In other words, only if you have SGT in your wallet to be able to participate in the pre-set block height range, it is likely that the ICO will end within this priority block. Status community marketing ability can be seen in general :)
+
+Dynamic soft top
+In order to avoid the rush to cast, set a number of soft top. When the soft top touches, refused to accept the transaction, until the specific block announced a new soft top, this way you can raise the process of raising the whole, while avoiding the big fish a vote over the amount.
+
+Limit miners
+BAT someone with 27 ether as a miner fee, in order to priority block is packaged, which for ordinary users, completely unable to compete. Status's smart contract restricts such behavior, with a maximum of 50 shannon (gwei), and the miner's fee is on the order of 0.005 ether that everyone can accept. So that all the participants are on the same starting line.
+
+Anti-DDos
+Each of the ICO transactions is a DDos attack for the current Ethernet network, there are too many traffic jams in the normal trading channel, and 99% will become a failed transaction into the block database. In order to alleviate this problem, imToken and Status to do a discussion, imToken will provide a proxy service, the first user to participate in the needs of the collection together, and then a transaction to participate in the way. Assuming imToken has 5000 users want to participate in the status, according to the past will produce 5,000 tx. We do advance collection, and finally assembled for 1 tx to participate in the ICO, which greatly ease the network congestion and garbage data problems.
+
+At first we were very hesitant to do this thing, after all, this is a central service, in order to ease the previously mentioned problems, we and Status to reach an agreement. In the case of Status and our users' trust, Status will set our wallet address to whitelist and set a quota within which imToken will help the user to participate in ICO. This is ICO Pro service.
